@@ -1,8 +1,7 @@
 # Hi, I'm House 👋
 
-**Computer Engineering student at KMUTT** · Full-stack developer in progress · Looking for a web development internship
+**Computer Engineering student at KMUTT** · Full-stack developer in progress · Looking for a web or application development internship
 
-I have experience across the full stack — backend APIs with Node.js, Python, and Go, frontend with React and TypeScript, and database design with PostgreSQL. I've worked on microservices architecture, data pipelines, ML integration, and automated testing across multiple projects. Currently pushing to grow into a well-rounded fullstack developer.
 
 ---
 
