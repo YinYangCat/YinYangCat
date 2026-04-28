@@ -48,7 +48,7 @@ Full-stack web app for discovering and reviewing local restaurants. Features use
 ---
 
 ### 🏆 Sidekick — Cyber Warrior Hackathon 2025 · 2nd Place
-AI assistant for cyber police built during a national hackathon. Used NLP and graph technology to help officers analyze cybercrime cases.
+Concept and system design for an AI assistant for cyber police, presented at a national hackathon. Proposed the use of NLP and graph technology to help officers analyze cybercrime cases.
 
 `Python` `NLP` `Graph Technology` `AI`
 
